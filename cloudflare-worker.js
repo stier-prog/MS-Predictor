@@ -1,5 +1,3 @@
-// Optional Cloudflare Worker proxy for live API use.
-// Store FOOTBALL_DATA_KEY and ODDS_API_KEY as Worker secrets.
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);

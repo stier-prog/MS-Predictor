@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-06T19:04:33.722142+00:00",
+    "updated_at": "2026-07-06T23:44:49.877447+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -969,16 +969,10 @@
       "date": "2026-07-06T19:00:00Z",
       "home": "Portugal",
       "away": "Spain",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
-      "odds": {
-        "home": 4.2,
-        "away": 2.1,
-        "draw": 3.65,
-        "o25": 1.9,
-        "u25": 2.16
-      }
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-0",
+      "odds": {}
     },
     {
       "id": "537380",
@@ -1001,9 +995,9 @@
       "odds": {
         "home": 1.41,
         "away": 11.5,
-        "draw": 5.0,
+        "draw": 5.1,
         "o25": 2.12,
-        "u25": 1.87
+        "u25": 1.86
       }
     },
     {
@@ -1015,8 +1009,8 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 2.35,
-        "home": 3.75,
+        "away": 2.36,
+        "home": 3.85,
         "draw": 3.2,
         "o25": 2.48,
         "u25": 1.65
@@ -1032,7 +1026,7 @@
       "realHT": null,
       "odds": {
         "home": 1.64,
-        "away": 7.0,
+        "away": 6.8,
         "draw": 4.1,
         "o25": 2.08,
         "u25": 1.89
@@ -1048,10 +1042,10 @@
       "realHT": null,
       "odds": {
         "away": 1.96,
-        "home": 4.3,
-        "draw": 3.85,
-        "o25": 1.85,
-        "u25": 2.14
+        "home": 4.4,
+        "draw": 3.81,
+        "o25": 1.84,
+        "u25": 2.12
       }
     }
   ]

@@ -1,0 +1,29 @@
+name: Update Predictor Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      COMPETITION: WC
+      SEASON: "2026"
+      ODDS_SPORT: soccer_fifa_world_cup
+      ODDS_REGION: eu
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate live data JSON
+        run: python3 scripts/update_data.py
+      - name: Commit data updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update predictor live data"
+          file_pattern: data/live-data.json

@@ -1,7 +1,9 @@
 {
   "meta": {
-    "source": "Demo",
-    "updated_at": null
+    "source": "GitHub Actions",
+    "updated_at": "2026-07-06T11:40:57.103336+00:00",
+    "competition": "WC",
+    "season": "2026"
   },
   "teams": {
     "Brazil": {
@@ -15,19 +17,1041 @@
       "off": 8.6,
       "def": 7.7,
       "momentum": 86
+    },
+    "Argentina": {
+      "rating": 92,
+      "off": 9.0,
+      "def": 8.6,
+      "momentum": 92
+    },
+    "France": {
+      "rating": 93,
+      "off": 9.1,
+      "def": 8.8,
+      "momentum": 93
+    },
+    "England": {
+      "rating": 86,
+      "off": 8.3,
+      "def": 8.1,
+      "momentum": 83
+    },
+    "Egypt": {
+      "rating": 80,
+      "off": 7.5,
+      "def": 7.7,
+      "momentum": 79
     }
   },
   "games": [
     {
-      "id": "BRA-NOR",
+      "id": "537327",
+      "date": "2026-06-11T19:00:00Z",
+      "home": "Mexico",
+      "away": "South Africa",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537328",
+      "date": "2026-06-12T02:00:00Z",
+      "home": "South Korea",
+      "away": "Czechia",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537333",
+      "date": "2026-06-12T19:00:00Z",
+      "home": "Canada",
+      "away": "Bosnia-Herzegovina",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537345",
+      "date": "2026-06-13T01:00:00Z",
+      "home": "United States",
+      "away": "Paraguay",
+      "status": "FINISHED",
+      "realFT": "4-1",
+      "realHT": "3-0",
+      "odds": {}
+    },
+    {
+      "id": "537334",
+      "date": "2026-06-13T19:00:00Z",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537339",
+      "date": "2026-06-13T22:00:00Z",
+      "home": "Brazil",
+      "away": "Morocco",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537340",
+      "date": "2026-06-14T01:00:00Z",
+      "home": "Haiti",
+      "away": "Scotland",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537346",
+      "date": "2026-06-14T04:00:00Z",
+      "home": "Australia",
+      "away": "Turkey",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537351",
+      "date": "2026-06-14T17:00:00Z",
+      "home": "Germany",
+      "away": "Curaçao",
+      "status": "FINISHED",
+      "realFT": "7-1",
+      "realHT": "3-1",
+      "odds": {}
+    },
+    {
+      "id": "537357",
+      "date": "2026-06-14T20:00:00Z",
+      "home": "Netherlands",
+      "away": "Japan",
+      "status": "FINISHED",
+      "realFT": "2-2",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537352",
+      "date": "2026-06-14T23:00:00Z",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537358",
+      "date": "2026-06-15T02:00:00Z",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "status": "FINISHED",
+      "realFT": "5-1",
+      "realHT": "2-1",
+      "odds": {}
+    },
+    {
+      "id": "537369",
+      "date": "2026-06-15T16:00:00Z",
+      "home": "Spain",
+      "away": "Cape Verde Islands",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537363",
+      "date": "2026-06-15T19:00:00Z",
+      "home": "Belgium",
+      "away": "Egypt",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537370",
+      "date": "2026-06-15T22:00:00Z",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537364",
+      "date": "2026-06-16T01:00:00Z",
+      "home": "Iran",
+      "away": "New Zealand",
+      "status": "FINISHED",
+      "realFT": "2-2",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537391",
+      "date": "2026-06-16T19:00:00Z",
+      "home": "France",
+      "away": "Senegal",
+      "status": "FINISHED",
+      "realFT": "3-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537392",
+      "date": "2026-06-16T22:00:00Z",
+      "home": "Iraq",
+      "away": "Norway",
+      "status": "FINISHED",
+      "realFT": "1-4",
+      "realHT": "1-2",
+      "odds": {}
+    },
+    {
+      "id": "537397",
+      "date": "2026-06-17T01:00:00Z",
+      "home": "Argentina",
+      "away": "Algeria",
+      "status": "FINISHED",
+      "realFT": "3-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537398",
+      "date": "2026-06-17T04:00:00Z",
+      "home": "Austria",
+      "away": "Jordan",
+      "status": "FINISHED",
+      "realFT": "3-1",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537403",
+      "date": "2026-06-17T17:00:00Z",
+      "home": "Portugal",
+      "away": "Congo DR",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537409",
+      "date": "2026-06-17T20:00:00Z",
+      "home": "England",
+      "away": "Croatia",
+      "status": "FINISHED",
+      "realFT": "4-2",
+      "realHT": "2-2",
+      "odds": {}
+    },
+    {
+      "id": "537410",
+      "date": "2026-06-17T23:00:00Z",
+      "home": "Ghana",
+      "away": "Panama",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537404",
+      "date": "2026-06-18T02:00:00Z",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "status": "FINISHED",
+      "realFT": "1-3",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537329",
+      "date": "2026-06-18T16:00:00Z",
+      "home": "Czechia",
+      "away": "South Africa",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537335",
+      "date": "2026-06-18T19:00:00Z",
+      "home": "Switzerland",
+      "away": "Bosnia-Herzegovina",
+      "status": "FINISHED",
+      "realFT": "4-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537336",
+      "date": "2026-06-18T22:00:00Z",
+      "home": "Canada",
+      "away": "Qatar",
+      "status": "FINISHED",
+      "realFT": "6-0",
+      "realHT": "3-0",
+      "odds": {}
+    },
+    {
+      "id": "537330",
+      "date": "2026-06-19T01:00:00Z",
+      "home": "Mexico",
+      "away": "South Korea",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537348",
+      "date": "2026-06-19T19:00:00Z",
+      "home": "United States",
+      "away": "Australia",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "2-0",
+      "odds": {}
+    },
+    {
+      "id": "537342",
+      "date": "2026-06-19T22:00:00Z",
+      "home": "Scotland",
+      "away": "Morocco",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537341",
+      "date": "2026-06-20T00:30:00Z",
+      "home": "Brazil",
+      "away": "Haiti",
+      "status": "FINISHED",
+      "realFT": "3-0",
+      "realHT": "3-0",
+      "odds": {}
+    },
+    {
+      "id": "537347",
+      "date": "2026-06-20T03:00:00Z",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537359",
+      "date": "2026-06-20T17:00:00Z",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "status": "FINISHED",
+      "realFT": "5-1",
+      "realHT": "2-0",
+      "odds": {}
+    },
+    {
+      "id": "537353",
+      "date": "2026-06-20T20:00:00Z",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537354",
+      "date": "2026-06-21T00:00:00Z",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537360",
+      "date": "2026-06-21T04:00:00Z",
+      "home": "Tunisia",
+      "away": "Japan",
+      "status": "FINISHED",
+      "realFT": "0-4",
+      "realHT": "0-2",
+      "odds": {}
+    },
+    {
+      "id": "537371",
+      "date": "2026-06-21T16:00:00Z",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "status": "FINISHED",
+      "realFT": "4-0",
+      "realHT": "3-0",
+      "odds": {}
+    },
+    {
+      "id": "537365",
+      "date": "2026-06-21T19:00:00Z",
+      "home": "Belgium",
+      "away": "Iran",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537372",
+      "date": "2026-06-21T22:00:00Z",
+      "home": "Uruguay",
+      "away": "Cape Verde Islands",
+      "status": "FINISHED",
+      "realFT": "2-2",
+      "realHT": "2-1",
+      "odds": {}
+    },
+    {
+      "id": "537366",
+      "date": "2026-06-22T01:00:00Z",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "status": "FINISHED",
+      "realFT": "1-3",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537399",
+      "date": "2026-06-22T17:00:00Z",
+      "home": "Argentina",
+      "away": "Austria",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537393",
+      "date": "2026-06-22T21:00:00Z",
+      "home": "France",
+      "away": "Iraq",
+      "status": "FINISHED",
+      "realFT": "3-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537394",
+      "date": "2026-06-23T00:00:00Z",
+      "home": "Norway",
+      "away": "Senegal",
+      "status": "FINISHED",
+      "realFT": "3-2",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537400",
+      "date": "2026-06-23T03:00:00Z",
+      "home": "Jordan",
+      "away": "Algeria",
+      "status": "FINISHED",
+      "realFT": "1-2",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537405",
+      "date": "2026-06-23T17:00:00Z",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "status": "FINISHED",
+      "realFT": "5-0",
+      "realHT": "3-0",
+      "odds": {}
+    },
+    {
+      "id": "537411",
+      "date": "2026-06-23T20:00:00Z",
+      "home": "England",
+      "away": "Ghana",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537412",
+      "date": "2026-06-23T23:00:00Z",
+      "home": "Panama",
+      "away": "Croatia",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537406",
+      "date": "2026-06-24T02:00:00Z",
+      "home": "Colombia",
+      "away": "Congo DR",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537337",
+      "date": "2026-06-24T19:00:00Z",
+      "home": "Switzerland",
+      "away": "Canada",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537338",
+      "date": "2026-06-24T19:00:00Z",
+      "home": "Bosnia-Herzegovina",
+      "away": "Qatar",
+      "status": "FINISHED",
+      "realFT": "3-1",
+      "realHT": "2-1",
+      "odds": {}
+    },
+    {
+      "id": "537344",
+      "date": "2026-06-24T22:00:00Z",
+      "home": "Morocco",
+      "away": "Haiti",
+      "status": "FINISHED",
+      "realFT": "4-2",
+      "realHT": "2-2",
+      "odds": {}
+    },
+    {
+      "id": "537343",
+      "date": "2026-06-24T22:00:00Z",
+      "home": "Scotland",
+      "away": "Brazil",
+      "status": "FINISHED",
+      "realFT": "0-3",
+      "realHT": "0-2",
+      "odds": {}
+    },
+    {
+      "id": "537331",
+      "date": "2026-06-25T01:00:00Z",
+      "home": "Czechia",
+      "away": "Mexico",
+      "status": "FINISHED",
+      "realFT": "0-3",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537332",
+      "date": "2026-06-25T01:00:00Z",
+      "home": "South Africa",
+      "away": "South Korea",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537355",
+      "date": "2026-06-25T20:00:00Z",
+      "home": "Ecuador",
+      "away": "Germany",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537356",
+      "date": "2026-06-25T20:00:00Z",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "status": "FINISHED",
+      "realFT": "0-2",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537361",
+      "date": "2026-06-25T23:00:00Z",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "status": "FINISHED",
+      "realFT": "1-3",
+      "realHT": "0-2",
+      "odds": {}
+    },
+    {
+      "id": "537362",
+      "date": "2026-06-25T23:00:00Z",
+      "home": "Japan",
+      "away": "Sweden",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537349",
+      "date": "2026-06-26T02:00:00Z",
+      "home": "Turkey",
+      "away": "United States",
+      "status": "FINISHED",
+      "realFT": "3-2",
+      "realHT": "2-1",
+      "odds": {}
+    },
+    {
+      "id": "537350",
+      "date": "2026-06-26T02:00:00Z",
+      "home": "Paraguay",
+      "away": "Australia",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537395",
+      "date": "2026-06-26T19:00:00Z",
+      "home": "Norway",
+      "away": "France",
+      "status": "FINISHED",
+      "realFT": "1-4",
+      "realHT": "1-3",
+      "odds": {}
+    },
+    {
+      "id": "537396",
+      "date": "2026-06-26T19:00:00Z",
+      "home": "Senegal",
+      "away": "Iraq",
+      "status": "FINISHED",
+      "realFT": "5-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537373",
+      "date": "2026-06-27T00:00:00Z",
+      "home": "Uruguay",
+      "away": "Spain",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537374",
+      "date": "2026-06-27T00:00:00Z",
+      "home": "Cape Verde Islands",
+      "away": "Saudi Arabia",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537367",
+      "date": "2026-06-27T03:00:00Z",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "status": "FINISHED",
+      "realFT": "1-5",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537368",
+      "date": "2026-06-27T03:00:00Z",
+      "home": "Egypt",
+      "away": "Iran",
+      "status": "FINISHED",
+      "realFT": "1-1",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537413",
+      "date": "2026-06-27T21:00:00Z",
+      "home": "Panama",
+      "away": "England",
+      "status": "FINISHED",
+      "realFT": "0-2",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537414",
+      "date": "2026-06-27T21:00:00Z",
+      "home": "Croatia",
+      "away": "Ghana",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537407",
+      "date": "2026-06-27T23:30:00Z",
+      "home": "Colombia",
+      "away": "Portugal",
+      "status": "FINISHED",
+      "realFT": "0-0",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537408",
+      "date": "2026-06-27T23:30:00Z",
+      "home": "Congo DR",
+      "away": "Uzbekistan",
+      "status": "FINISHED",
+      "realFT": "3-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537401",
+      "date": "2026-06-28T02:00:00Z",
+      "home": "Jordan",
+      "away": "Argentina",
+      "status": "FINISHED",
+      "realFT": "1-3",
+      "realHT": "0-2",
+      "odds": {}
+    },
+    {
+      "id": "537402",
+      "date": "2026-06-28T02:00:00Z",
+      "home": "Algeria",
+      "away": "Austria",
+      "status": "FINISHED",
+      "realFT": "3-3",
+      "realHT": "1-1",
+      "odds": {}
+    },
+    {
+      "id": "537417",
+      "date": "2026-06-28T19:00:00Z",
+      "home": "South Africa",
+      "away": "Canada",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537423",
+      "date": "2026-06-29T17:00:00Z",
+      "home": "Brazil",
+      "away": "Japan",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537415",
+      "date": "2026-06-29T20:30:00Z",
+      "home": "Germany",
+      "away": "Paraguay",
+      "status": "FINISHED",
+      "realFT": "4-5",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537418",
+      "date": "2026-06-30T01:00:00Z",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "status": "FINISHED",
+      "realFT": "3-4",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537424",
+      "date": "2026-06-30T17:00:00Z",
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "status": "FINISHED",
+      "realFT": "1-2",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537416",
+      "date": "2026-06-30T21:00:00Z",
+      "home": "France",
+      "away": "Sweden",
+      "status": "FINISHED",
+      "realFT": "3-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537425",
+      "date": "2026-07-01T02:00:00Z",
+      "home": "Mexico",
+      "away": "Ecuador",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "2-0",
+      "odds": {}
+    },
+    {
+      "id": "537426",
+      "date": "2026-07-01T16:00:00Z",
+      "home": "England",
+      "away": "Congo DR",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537422",
+      "date": "2026-07-01T20:00:00Z",
+      "home": "Belgium",
+      "away": "Senegal",
+      "status": "FINISHED",
+      "realFT": "3-2",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537421",
+      "date": "2026-07-02T00:00:00Z",
+      "home": "United States",
+      "away": "Bosnia-Herzegovina",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537420",
+      "date": "2026-07-02T19:00:00Z",
+      "home": "Spain",
+      "away": "Austria",
+      "status": "FINISHED",
+      "realFT": "3-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537419",
+      "date": "2026-07-02T23:00:00Z",
+      "home": "Portugal",
+      "away": "Croatia",
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537429",
+      "date": "2026-07-03T03:00:00Z",
+      "home": "Switzerland",
+      "away": "Algeria",
+      "status": "FINISHED",
+      "realFT": "2-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537428",
+      "date": "2026-07-03T18:00:00Z",
+      "home": "Australia",
+      "away": "Egypt",
+      "status": "FINISHED",
+      "realFT": "3-5",
+      "realHT": "0-1",
+      "odds": {}
+    },
+    {
+      "id": "537427",
+      "date": "2026-07-03T22:00:00Z",
+      "home": "Argentina",
+      "away": "Cape Verde Islands",
+      "status": "FINISHED",
+      "realFT": "3-2",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537430",
+      "date": "2026-07-04T01:30:00Z",
+      "home": "Colombia",
+      "away": "Ghana",
+      "status": "FINISHED",
+      "realFT": "1-0",
+      "realHT": "1-0",
+      "odds": {}
+    },
+    {
+      "id": "537376",
+      "date": "2026-07-04T17:00:00Z",
+      "home": "Canada",
+      "away": "Morocco",
+      "status": "FINISHED",
+      "realFT": "0-3",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537375",
+      "date": "2026-07-04T21:00:00Z",
+      "home": "Paraguay",
+      "away": "France",
+      "status": "FINISHED",
+      "realFT": "0-1",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537377",
       "date": "2026-07-05T20:00:00Z",
       "home": "Brazil",
       "away": "Norway",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
+      "realFT": "1-2",
+      "realHT": "0-0",
+      "odds": {}
+    },
+    {
+      "id": "537378",
+      "date": "2026-07-06T01:00:00Z",
+      "home": "Mexico",
+      "away": "England",
+      "status": "FINISHED",
+      "realFT": "2-3",
+      "realHT": "1-2",
+      "odds": {}
+    },
+    {
+      "id": "537379",
+      "date": "2026-07-06T19:00:00Z",
+      "home": "Portugal",
+      "away": "Spain",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
       "odds": {
-        "home": 1.85,
-        "draw": 3.7,
-        "away": 4.2
+        "home": 4.4,
+        "away": 1.99,
+        "draw": 3.75,
+        "o25": 1.82,
+        "u25": 2.13
+      }
+    },
+    {
+      "id": "537380",
+      "date": "2026-07-07T00:00:00Z",
+      "home": "United States",
+      "away": "Belgium",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {}
+    },
+    {
+      "id": "537381",
+      "date": "2026-07-07T16:00:00Z",
+      "home": "Argentina",
+      "away": "Egypt",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {
+        "home": 1.43,
+        "away": 10.5,
+        "draw": 5.0,
+        "o25": 2.08,
+        "u25": 1.89
+      }
+    },
+    {
+      "id": "537382",
+      "date": "2026-07-07T20:00:00Z",
+      "home": "Switzerland",
+      "away": "Colombia",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {
+        "away": 2.38,
+        "home": 3.75,
+        "draw": 3.17,
+        "o25": 2.48,
+        "u25": 1.66
+      }
+    },
+    {
+      "id": "537383",
+      "date": "2026-07-09T20:00:00Z",
+      "home": "France",
+      "away": "Morocco",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {
+        "home": 1.63,
+        "away": 7.2,
+        "draw": 4.1,
+        "o25": 2.1,
+        "u25": 1.87
+      }
+    },
+    {
+      "id": "537385",
+      "date": "2026-07-11T21:00:00Z",
+      "home": "Norway",
+      "away": "England",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {
+        "away": 1.95,
+        "home": 4.3,
+        "draw": 3.8,
+        "o25": 1.95,
+        "u25": 2.06
       }
     }
   ]

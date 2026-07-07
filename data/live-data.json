@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-07T11:22:32.706354+00:00",
+    "updated_at": "2026-07-07T19:17:20.394413+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -989,16 +989,10 @@
       "date": "2026-07-07T16:00:00Z",
       "home": "Argentina",
       "away": "Egypt",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
-      "odds": {
-        "home": 1.39,
-        "away": 12.5,
-        "draw": 5.2,
-        "o25": 2.02,
-        "u25": 1.96
-      }
+      "status": "FINISHED",
+      "realFT": "3-2",
+      "realHT": "0-1",
+      "odds": {}
     },
     {
       "id": "537382",
@@ -1009,11 +1003,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 2.35,
+        "away": 2.44,
         "home": 3.9,
-        "draw": 3.2,
-        "o25": 2.42,
-        "u25": 1.69
+        "draw": 3.13,
+        "o25": 2.5,
+        "u25": 1.65
       }
     },
     {
@@ -1025,11 +1019,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "home": 1.63,
-        "away": 6.8,
-        "draw": 4.1,
-        "o25": 2.02,
-        "u25": 1.95
+        "home": 1.61,
+        "away": 7.2,
+        "draw": 4.12,
+        "o25": 2.04,
+        "u25": 1.93
       }
     },
     {
@@ -1042,10 +1036,10 @@
       "realHT": null,
       "odds": {
         "away": 6.25,
-        "home": 1.69,
-        "draw": 4.1,
-        "o25": 1.86,
-        "u25": 2.1
+        "home": 1.65,
+        "draw": 4.2,
+        "o25": 1.92,
+        "u25": 2.06
       }
     },
     {
@@ -1057,11 +1051,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 1.94,
+        "away": 1.95,
         "home": 4.4,
-        "draw": 3.81,
-        "o25": 1.81,
-        "u25": 2.17
+        "draw": 3.85,
+        "o25": 1.79,
+        "u25": 2.15
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-07T19:17:20.394413+00:00",
+    "updated_at": "2026-07-07T23:31:30.486567+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -999,16 +999,10 @@
       "date": "2026-07-07T20:00:00Z",
       "home": "Switzerland",
       "away": "Colombia",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
-      "odds": {
-        "away": 2.44,
-        "home": 3.9,
-        "draw": 3.13,
-        "o25": 2.5,
-        "u25": 1.65
-      }
+      "status": "FINISHED",
+      "realFT": "4-3",
+      "realHT": "0-0",
+      "odds": {}
     },
     {
       "id": "537383",
@@ -1019,10 +1013,10 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "home": 1.61,
-        "away": 7.2,
-        "draw": 4.12,
-        "o25": 2.04,
+        "home": 1.62,
+        "away": 7.0,
+        "draw": 4.1,
+        "o25": 2.06,
         "u25": 1.93
       }
     },
@@ -1035,10 +1029,10 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 6.25,
-        "home": 1.65,
+        "away": 6.2,
+        "home": 1.66,
         "draw": 4.2,
-        "o25": 1.92,
+        "o25": 1.91,
         "u25": 2.06
       }
     },
@@ -1051,11 +1045,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 1.95,
-        "home": 4.4,
+        "away": 1.93,
+        "home": 4.5,
         "draw": 3.85,
-        "o25": 1.79,
-        "u25": 2.15
+        "o25": 1.78,
+        "u25": 2.19
       }
     }
   ]

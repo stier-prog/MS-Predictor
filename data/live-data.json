@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-07T23:31:30.486567+00:00",
+    "updated_at": "2026-07-08T09:16:32.785134+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -1013,11 +1013,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "home": 1.62,
+        "home": 1.63,
         "away": 7.0,
-        "draw": 4.1,
+        "draw": 4.02,
         "o25": 2.06,
-        "u25": 1.93
+        "u25": 1.92
       }
     },
     {
@@ -1029,11 +1029,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 6.2,
-        "home": 1.66,
-        "draw": 4.2,
-        "o25": 1.91,
-        "u25": 2.06
+        "away": 6.0,
+        "home": 1.67,
+        "draw": 4.17,
+        "o25": 1.9,
+        "u25": 2.08
       }
     },
     {
@@ -1048,8 +1048,24 @@
         "away": 1.93,
         "home": 4.5,
         "draw": 3.85,
-        "o25": 1.78,
-        "u25": 2.19
+        "o25": 1.76,
+        "u25": 2.21
+      }
+    },
+    {
+      "id": "537386",
+      "date": "2026-07-12T01:00:00Z",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "status": "TIMED",
+      "realFT": null,
+      "realHT": null,
+      "odds": {
+        "home": 1.78,
+        "away": 6.0,
+        "draw": 3.7,
+        "o25": 2.27,
+        "u25": 1.7
       }
     }
   ]

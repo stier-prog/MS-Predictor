@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-10T17:29:52.978840+00:00",
+    "updated_at": "2026-07-10T21:38:50.850789+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -1019,16 +1019,10 @@
       "date": "2026-07-10T19:00:00Z",
       "home": "Spain",
       "away": "Belgium",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
-      "odds": {
-        "away": 6.4,
-        "home": 1.65,
-        "draw": 4.23,
-        "o25": 1.85,
-        "u25": 2.14
-      }
+      "status": "FINISHED",
+      "realFT": "2-1",
+      "realHT": "1-1",
+      "odds": {}
     },
     {
       "id": "537385",
@@ -1039,9 +1033,9 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 1.96,
+        "away": 1.95,
         "home": 4.3,
-        "draw": 3.85,
+        "draw": 3.9,
         "o25": 1.76,
         "u25": 2.15
       }
@@ -1058,8 +1052,8 @@
         "home": 1.74,
         "away": 6.4,
         "draw": 3.75,
-        "o25": 2.24,
-        "u25": 1.7
+        "o25": 2.28,
+        "u25": 1.71
       }
     }
   ]

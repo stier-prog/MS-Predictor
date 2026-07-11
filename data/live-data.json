@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-11T18:08:02.158211+00:00",
+    "updated_at": "2026-07-11T21:35:30.871350+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -959,7 +959,7 @@
       "date": "2026-07-06T01:00:00Z",
       "home": "Mexico",
       "away": "England",
-      "status": "FINISHED",
+      "status": "2026-07-06 01:00:00Z",
       "realFT": "2-3",
       "realHT": "1-2",
       "odds": {}
@@ -1029,15 +1029,15 @@
       "date": "2026-07-11T21:00:00Z",
       "home": "Norway",
       "away": "England",
-      "status": "TIMED",
-      "realFT": null,
+      "status": "IN_PLAY",
+      "realFT": "0-0",
       "realHT": null,
       "odds": {
-        "away": 2.0,
-        "home": 4.0,
-        "draw": 4.1,
-        "o25": 1.72,
-        "u25": 2.28
+        "away": 1.94,
+        "home": 5.5,
+        "draw": 3.45,
+        "o25": 2.3,
+        "u25": 1.6
       }
     },
     {
@@ -1050,9 +1050,9 @@
       "realHT": null,
       "odds": {
         "home": 1.76,
-        "away": 6.4,
-        "draw": 3.7,
-        "o25": 2.32,
+        "away": 6.5,
+        "draw": 3.65,
+        "o25": 2.33,
         "u25": 1.69
       }
     },
@@ -1065,11 +1065,11 @@
       "realFT": null,
       "realHT": null,
       "odds": {
+        "o25": 1.99,
+        "u25": 1.99,
         "home": 2.46,
-        "away": 3.35,
-        "draw": 3.31,
-        "o25": 2.0,
-        "u25": 1.97
+        "away": 3.4,
+        "draw": 3.35
       }
     }
   ]

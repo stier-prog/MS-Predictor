@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-14T16:57:02.657919+00:00",
+    "updated_at": "2026-07-14T20:42:59.914011+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -1049,15 +1049,15 @@
       "date": "2026-07-14T19:00:00Z",
       "home": "France",
       "away": "Spain",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
+      "status": "IN_PLAY",
+      "realFT": "0-2",
+      "realHT": "0-1",
       "odds": {
-        "home": 2.62,
-        "away": 3.34,
-        "draw": 3.3,
-        "o25": 1.98,
-        "u25": 2.0
+        "home": 90.0,
+        "away": 1.09,
+        "draw": 14.0,
+        "o25": 1.72,
+        "u25": 2.38
       }
     },
     {
@@ -1069,8 +1069,8 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 3.15,
-        "home": 2.82,
+        "away": 3.1,
+        "home": 2.9,
         "draw": 3.04,
         "o25": 2.5,
         "u25": 1.65

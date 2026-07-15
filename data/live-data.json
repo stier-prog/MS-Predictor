@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-15T17:48:52.199354+00:00",
+    "updated_at": "2026-07-15T21:31:41.669175+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -1059,16 +1059,10 @@
       "date": "2026-07-15T19:00:00Z",
       "home": "England",
       "away": "Argentina",
-      "status": "TIMED",
-      "realFT": null,
-      "realHT": null,
-      "odds": {
-        "away": 3.2,
-        "home": 2.79,
-        "draw": 3.04,
-        "o25": 2.58,
-        "u25": 1.63
-      }
+      "status": "FINISHED",
+      "realFT": "1-2",
+      "realHT": "0-0",
+      "odds": {}
     }
   ]
 }

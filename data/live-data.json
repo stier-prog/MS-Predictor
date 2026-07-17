@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "GitHub Actions",
-    "updated_at": "2026-07-17T09:19:03.323941+00:00",
+    "updated_at": "2026-07-17T15:01:04.319560+00:00",
     "competition": "WC",
     "season": "2026"
   },
@@ -1073,9 +1073,9 @@
       "realFT": null,
       "realHT": null,
       "odds": {
-        "away": 4.05,
+        "away": 4.0,
         "home": 1.99,
-        "draw": 4.03,
+        "draw": 4.05,
         "o25": 1.48,
         "u25": 2.75
       }
@@ -1090,9 +1090,9 @@
       "realHT": null,
       "odds": {
         "away": 3.8,
-        "home": 2.36,
+        "home": 2.38,
         "draw": 3.16,
-        "o25": 2.4,
+        "o25": 2.38,
         "u25": 1.71
       }
     }
